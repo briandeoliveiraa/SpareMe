@@ -33,7 +33,7 @@ cd spare-me
 
 **The extension will appear in your toolbar, ready to use.**
 
-## Usage
+## ✨ Usage
 
 `Manage Your Queue:`
 Open the Spare Me! popup by clicking its icon. Use the provided textarea to add text snippets to your queue. Your queue displays the remaining items in order.
@@ -46,14 +46,14 @@ If necessary, use Ctrl+Z (within the specified time window) to undo your last pa
 
 *Tip: For best results, use Spare Me! with editors that support multiline input (e.g., <textarea> or contenteditable elements).*
 
-## Customization
+## 🧩 Customization
 `Appearance:`
 The UI is defined in popup.html and styled via css/popup.css. You can adjust fonts, colors, and layout as needed.
 
 `Toggle Behavior:`
 Spare Me! includes an option (accessible from the popup) to enable/disable custom paste functionality. When disabled, the standard copy-paste behavior is restored.
 
-## Privacy
+## 🔐 Privacy
 Spare Me! is built with user privacy in mind:
 
 `Local Storage Only:`
@@ -62,8 +62,8 @@ All user-entered text and settings are stored locally using Chrome’s storage A
 `No Data Collection:`
 The extension does not gather, transmit, or share any personally identifiable or sensitive data with third parties.
 
-## Contributing
+## 🤝 Contributing
 Contributions and feedback are always welcome! If you encounter issues or have suggestions, please open an issue or submit a pull request.
 
-## License
+## 📄 License
 This project is distributed under the MIT License.
