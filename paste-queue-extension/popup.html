@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Spare Me!</title>
+  <!-- Original stylesheet -->
+  <link rel="stylesheet" href="css/popup.css">
+
+  <!-- Include Montserrat font from Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+  
+  <style>
+    body {
+      min-width: 400px;
+      min-height: 500px;
+      font-family: 'Montserrat', sans-serif; /* Apply Montserrat globally */
+    }
+
+    h2 {
+      font-weight: 700;
+      font-size: 1.2em;
+      margin-bottom: 8px;
+    }
+
+    #new-item {
+      font-family: 'Montserrat', sans-serif;
+      width: 100%;
+      min-height: 60px;
+      padding: 8px;
+      box-sizing: border-box;
+      resize: vertical;
+    }
+
+    #new-item::placeholder {
+      font-family: 'Montserrat', sans-serif;
+      font-weight: 400;
+    }
+
+    #saved-queues-list {
+      margin-bottom: 16px;
+    }
+    
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>
+      <img src="images/SPAREME(full).png" alt="Spare Me!" style="width: 128px; height: 48px;">
+    </h1>
+
+    <div class="toggle-container">
+      <label class="toggle-switch">
+        <input type="checkbox" id="extension-toggle" checked>
+        <span class="slider"></span>
+      </label>
+      <span>Enable Queue Pasting</span>
+      <div id="toggle-status" style="margin-left: 10px; font-weight: bold;"></div>
+    </div>
+
+    <div class="queue-section">
+      <h2>Current Queue</h2>
+      <div id="queue-items" class="queue-items"></div>
+    </div>
+
+    <div class="input-section">
+      <textarea id="new-item" placeholder="Type or paste text here... Press Enter to add to queue"></textarea>
+    </div>
+
+    <div class="button-section">
+      <button id="clear-queue">Clear Queue</button>
+    </div>
+
+    <div class="saved-queues-section">
+      <h2>Saved Queues</h2>
+      <select id="saved-queues-list"></select>
+      <div class="button-section">
+        <button id="save-queue">Save Queue</button>
+        <button id="load-queue">Load Queue</button>
+        <button id="delete-queue">Delete Saved Queue</button>
+      </div>
+    </div>
+  </div>
+  <script src="js/popup.js"></script>
+</body>
+</html>
