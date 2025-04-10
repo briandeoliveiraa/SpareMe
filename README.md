@@ -31,7 +31,7 @@ cd spare-me
 - Enable "Developer mode" (toggle in the top right corner).
 - Click "Load unpacked" and select the repository directory.
 
-```The extension will appear in your toolbar, ready to use.```
+**The extension will appear in your toolbar, ready to use.**
 
 ## Usage
 
@@ -44,13 +44,13 @@ Simply press Ctrl+V (or your designated paste key) in any multiline text field (
 `Undo a Paste:`
 If necessary, use Ctrl+Z (within the specified time window) to undo your last pasted item—restoring it back to your queue for re-pasting.
 
-`Tip: For best results, use Spare Me! with editors that support multiline input (e.g., <textarea> or contenteditable elements).`
+**Tip: For best results, use Spare Me! with editors that support multiline input (e.g., <textarea> or contenteditable elements).**
 
-Customization
-Appearance:
+## Customization
+`Appearance:`
 The UI is defined in popup.html and styled via css/popup.css. You can adjust fonts, colors, and layout as needed.
 
-Toggle Behavior:
+`Toggle Behavior:`
 Spare Me! includes an option (accessible from the popup) to enable/disable custom paste functionality. When disabled, the standard copy-paste behavior is restored.
 
 ## Privacy
@@ -66,7 +66,4 @@ The extension does not gather, transmit, or share any personally identifiable or
 Contributions and feedback are always welcome! If you encounter issues or have suggestions, please open an issue or submit a pull request.
 
 ## License
-This project is distributed under the MIT License. See the LICENSE file for more details.
-
-## Contact
-For any questions or support, please open an issue on GitHub.
+This project is distributed under the MIT License.
