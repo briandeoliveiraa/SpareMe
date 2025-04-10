@@ -44,7 +44,7 @@ Simply press Ctrl+V (or your designated paste key) in any multiline text field (
 `Undo a Paste:`
 If necessary, use Ctrl+Z (within the specified time window) to undo your last pasted item—restoring it back to your queue for re-pasting.
 
-**Tip: For best results, use Spare Me! with editors that support multiline input (e.g., <textarea> or contenteditable elements).**
+*Tip: For best results, use Spare Me! with editors that support multiline input (e.g., <textarea> or contenteditable elements).*
 
 ## Customization
 `Appearance:`
