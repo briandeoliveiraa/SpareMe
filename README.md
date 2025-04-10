@@ -18,8 +18,8 @@ A clean, easy-to-use popup interface where you can view, save, load, and clear y
 `Privacy Focused:`
 Spare Me! does not collect or transmit any user data, making it a secure tool for enhancing your productivity.
 
-Installation
-Clone the Repository:
+# Installation
+`Clone the Repository:`
 
 Copy
 ```
@@ -27,25 +27,25 @@ git clone https://github.com/yourusername/spare-me.git
 cd spare-me
 ```
 
-- Load into Chrome:
+`Load into Chrome:`
 - Open Chrome and navigate to chrome://extensions.
 - Enable "Developer mode" (toggle in the top right corner).
 - Click "Load unpacked" and select the repository directory.
 
-The extension will appear in your toolbar, ready to use.
+| The extension will appear in your toolbar, ready to use.
 
 # Usage
 
-Manage Your Queue:
+`Manage Your Queue:`
 Open the Spare Me! popup by clicking its icon. Use the provided textarea to add text snippets to your queue. Your queue displays the remaining items in order.
 
-Paste on Demand:
+`Paste on Demand:`
 Simply press Ctrl+V (or your designated paste key) in any multiline text field (such as in an email editor or a <textarea> element) to automatically paste the next snippet from your queue.
 
-Undo a Paste:
+`Undo a Paste:`
 If necessary, use Ctrl+Z (within the specified time window) to undo your last pasted item—restoring it back to your queue for re-pasting.
 
-Tip: For best results, use Spare Me! with editors that support multiline input (e.g., <textarea> or contenteditable elements).
+`Tip: For best results, use Spare Me! with editors that support multiline input (e.g., <textarea> or contenteditable elements).
 
 Customization
 Appearance:
