@@ -42,7 +42,7 @@ Open the Spare Me! popup by clicking its icon. Use the provided textarea to add 
 Simply press Ctrl+V (or your designated paste key) in any multiline text field (such as in an email editor or a <textarea> element) to automatically paste the next snippet from your queue.
 
 `Undo a Paste:`
-If necessary, use Ctrl+Z (within the specified time window) to undo your last pasted item—restoring it back to your queue for re-pasting.
+If necessary, use Ctrl+Z (within the specified time window) to undo your last pasted item—restoring it back to your queue for re-pasting. **Note: This feature is currently a little buggy.**
 
 *Tip: For best results, use Spare Me! with editors that support multiline input (e.g., <textarea> or contenteditable elements).*
 
