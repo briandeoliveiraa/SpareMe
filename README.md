@@ -18,15 +18,15 @@ A clean, easy-to-use popup interface where you can view, save, load, and clear y
 `Privacy Focused:`
 Spare Me! does not collect or transmit any user data, making it a secure tool for enhancing your productivity.
 
-## Installation
-`Clone the Repository:`
+## 🛠️ Installation
+`1. Clone the Repository:`
 
 ```
 git clone https://github.com/yourusername/spare-me.git
 cd spare-me
 ```
 
-`Load into Chrome:`
+`2. Load into Chrome:`
 - Open Chrome and navigate to chrome://extensions.
 - Enable "Developer mode" (toggle in the top right corner).
 - Click "Load unpacked" and select the repository directory.
