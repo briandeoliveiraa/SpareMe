@@ -1,5 +1,6 @@
 # Spare Me!
-`*Update: You can now find us in the Chrome Web Store!*`
+`Update: You can now find us in the Chrome Web Store!`
+
 Spare Me! is a Chrome extension that streamlines repetitive copy-and-paste tasks by letting you queue up text snippets and paste them sequentially with a single paste command (Ctrl+V). With its intuitive interface and built-in undo feature, Spare Me! is designed to save you time and reduce the hassle of re-copying the same content over and over.
 
 ## 🚀 Features
