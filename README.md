@@ -1,4 +1,4 @@
-[![Get it on Chrome Web Store](https://img.shields.io/badge/Chrome%20Web%20Store-Available-blue?logo=googlechrome)]([https://chrome.google.com/webstore/detail/your-extension-id-here](https://chromewebstore.google.com/detail/spare-me/gdhdjpeaoejgficmgkmibmjiccaombja))
+[![Get it on Chrome Web Store](https://img.shields.io/badge/Chrome%20Web%20Store-Available-blue?logo=googlechrome)]([https://chrome.google.com/webstore/detail/your-extension-id-here](https://chromewebstore.google.com/detail/spare-me/gdhdjpeaoejgficmgkmibmjiccaombja)
 
 # Spare Me!
 
