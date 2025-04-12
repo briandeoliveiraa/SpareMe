@@ -27,8 +27,8 @@ You can find us on the Google Chrome Web Store, or:
 `1. Clone the Repository:`
 
 ```
-git clone https://github.com/yourusername/spare-me.git
-cd spare-me
+git clone https://github.com/briandeoliveiraa/SpareMe.git
+cd SpareMe
 ```
 
 `2. Load into Chrome:`
