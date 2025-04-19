@@ -1,0 +1,46 @@
+{
+  "manifest_version": 3,
+  "name": "Spare Me!",
+  "version": "1.11",
+  "description": "A Chrome extension that allows you to queue up text to paste",
+  "permissions": [
+    "storage",
+    "activeTab"
+  ],
+  "icons": {
+    "16": "images/SPAREME.png",
+    "48": "images/SPAREME.png",
+    "128": "images/SPAREME.png"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "images/SPAREME.png"
+  },
+  "commands": {
+    "_execute_action": {
+      "suggested_key": {
+        "default": "Ctrl+Shift+V",
+        "mac": "Command+Shift+V"
+      },
+      "description": "Open Paste Queue"
+    }
+  },
+  "background": {
+    "service_worker": "js/background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["js/content.js"]
+    }
+  ],
+
+  "all_frames": true,
+  
+  "web_accessible_resources": [
+    {
+      "resources": ["popup.html", "css/popup.css", "js/popup.js"],
+      "matches": ["<all_urls>"]
+    }
+  ]
+}
