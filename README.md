@@ -19,10 +19,11 @@ A clean, easy-to-use popup interface where you can view, save, load, and clear y
 Spare Me! does not collect or transmit any user data, making it a secure tool for enhancing your productivity.
 
 ## 🛠️ Installation
-`Clone the Repository:`
 
-```git clone https://github.com/briandeoliveiraa/SpareMe.git
-cd spare-me```
+**Clone the Repository**
+```bash
+git clone https://github.com/briandeoliveiraa/SpareMe.git
+cd spare-me
 
 
 `Load into Chrome:`
