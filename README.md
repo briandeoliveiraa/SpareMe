@@ -24,7 +24,7 @@ Spare Me! does not collect or transmit any user data, making it a secure tool fo
 ```bash
 git clone https://github.com/briandeoliveiraa/SpareMe.git
 cd spare-me
-
+```
 
 `Load into Chrome:`
 - Open Chrome and navigate to chrome://extensions.
