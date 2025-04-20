@@ -21,8 +21,8 @@ Spare Me! does not collect or transmit any user data, making it a secure tool fo
 ## 🛠️ Installation
 `Clone the Repository:`
 
-```git clone https://github.com/briandeoliveiraa/SpareMe.git```
-```cd spare-me```
+```git clone https://github.com/briandeoliveiraa/SpareMe.git
+cd spare-me```
 
 
 `Load into Chrome:`
