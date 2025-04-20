@@ -13,7 +13,7 @@ Easily add text snippets to your queue and paste them one at a time in the exact
 Your queue, settings, and preferences are stored locally via Chrome’s storage API—ensuring your data never leaves your device.
 
 **Customizable UI:**
-A clean, easy-to-use popup interface where you can view, save, load, and clear your text queue.
+A clean, easy-to-use popup interface where you can view, save, load, and edit your text queue.
 
 **Privacy Focused:**
 Spare Me! does not collect or transmit any user data, making it a secure tool for enhancing your productivity.
