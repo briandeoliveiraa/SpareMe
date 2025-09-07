@@ -45,7 +45,7 @@ Simply press Ctrl+V (or your designated paste key) in any multiline text field (
 
 ## 🧩 Customization
 
-Spare Me! includes an option (accessible from the popup) to enable/disable custom paste functionality. When disabled, the standard copy-paste behavior is restored. Additionally, you can delete, edit, and reorder items in your queue.
+Spare Me! includes an option (accessible from the popup) to enable or disable custom paste functionality. When disabled, the standard copy-paste behavior is restored. Additionally, you can delete, edit, and reorder items in your queue.
 
 ## 🔐 Privacy
 Spare Me! is built with user privacy in mind:
